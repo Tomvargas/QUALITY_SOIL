@@ -318,10 +318,7 @@ def vent():
 
 
     vent.mainloop()
-    
-    
 
-    
 # VENTANA "Login finalizado con exito".
  
 def exito_login():
